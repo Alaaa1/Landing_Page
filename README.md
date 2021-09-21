@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [About](#About)
-* [Used Languages](#Used_Languages)
+* [Used Languages](#Used-Languages)
 
 ## About
 
