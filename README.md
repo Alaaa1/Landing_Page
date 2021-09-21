@@ -9,11 +9,11 @@
 
 This is the landing page I worked on to complete the landing page task of the Front end development nanodegree from Udacity.  
 
-##Used Languages
+## Used Languages
 
 I've used HTML, CSS, and JavaScript in this project. 
 
-##Basic Info  
+## Basic Info  
 
 The code I wrote will dynamically create and populate and unordered list with a list element for each section on the page.
 When clicked, the user will be smoothly scrolled to the section instead of the default jump. Also, the currently 
