@@ -4,6 +4,7 @@
 
 * [About](#About)
 * [Used Languages](#Used-Languages)
+* [Basic Info](#Basic-Info)
 
 ## About
 
